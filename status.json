@@ -1,0 +1,10 @@
+{
+  "checkedInAt": "2026-09-04T19:59:21Z",
+  "expectedBy": "2026-09-06T23:59:59Z",
+  "message": "Available for coffee in Los Angeles/Long Beach area through the weekend.",
+  "state": "ok",
+  "overdueAt": "2026-09-06T23:59:59Z",
+  "alertAt": "2026-09-07T23:59:59Z",
+  "publishedAt": "2026-09-04T19:59:23Z",
+  "reveal": null
+}
