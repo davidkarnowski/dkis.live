@@ -1,0 +1,10 @@
+{
+  "checkedInAt": "2026-09-12T21:16:35Z",
+  "expectedBy": "2026-09-13T23:59:59Z",
+  "message": "Traveling in SoCal",
+  "state": "ok",
+  "overdueAt": "2026-09-13T23:59:59Z",
+  "alertAt": "2026-09-14T23:59:59Z",
+  "publishedAt": "2026-09-12T21:16:36Z",
+  "reveal": null
+}
