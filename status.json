@@ -1,0 +1,10 @@
+{
+  "checkedInAt": "2026-09-26T21:45:00Z",
+  "expectedBy": "2026-08-30T23:59:59Z",
+  "message": "Currently in the LA/LBC area and available for coffee.",
+  "state": "alert",
+  "overdueAt": "2026-08-30T23:59:59Z",
+  "alertAt": "2026-08-31T23:59:59Z",
+  "publishedAt": "2026-09-26T21:45:01Z",
+  "reveal": "Camped on the curb near Atherton/Ximeno, LBC\n"
+}
