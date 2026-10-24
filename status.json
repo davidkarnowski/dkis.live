@@ -1,0 +1,10 @@
+{
+  "checkedInAt": "2026-10-24T15:58:46Z",
+  "expectedBy": "2026-10-26T06:59:00Z",
+  "message": "Enjoying nature.",
+  "state": "ok",
+  "overdueAt": "2026-10-26T06:59:00Z",
+  "alertAt": "2026-10-27T06:59:00Z",
+  "publishedAt": "2026-10-24T15:58:47Z",
+  "reveal": null
+}
